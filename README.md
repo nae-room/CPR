@@ -5,6 +5,7 @@
 CPR(Connect Proxy relationship) : 코로나블루를 완화하기 위한 임의 사용자 연결 추천 서비스
 
 ## 📢 **Demo**
+- CPR 웹사이트
 
 ## 👩‍💻 **Developer**
 |Front|Front|Algorithm|Algorithm|Algorithm|
