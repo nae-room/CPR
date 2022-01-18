@@ -7,5 +7,6 @@ CPR(Connect Proxy relationship) : 코로나블루를 완화하기 위한 임의 
 ## 📢 **Demo**
 
 ## 👩‍💻 **Developer**
-|--|--|--|--|--|--|
+|Front|Front|Algorithm|Algorithm|Algorithm|
+|--|--|--|--|--|
 |김다연|김민섭|김성원|김예린|장찬영|
