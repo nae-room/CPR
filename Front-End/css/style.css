@@ -1,0 +1,51 @@
+/* 폰트 임포트 */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/status-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
+@import "components/nav-bar.css";
+@import "components/badge.css";
+@import "components/icon-row.css";
+@import "components/alt-header.css";
+@import "components/no-mobile.css";
+
+/* Screens */
+@import "screens/login.css";
+@import "screens/friends.css";
+@import "screens/find.css";
+@import "screens/tutorial.css";
+@import "screens/setting.css";
+@import "screens/chat.css";
+
+body{
+  /* background-color: tomato; */
+  font-family: 'Open Sans', sans-serif;
+  color: #2e363e;
+}
+.init{
+  background-image: url("https://cdn.pixabay.com/photo/2020/05/19/12/59/phone-5190643_960_720.jpg");
+  height: 100vh;
+  background-repeat : no-repeat;
+  background-size : cover;
+  background-position: center top;
+
+  opacity: 0.4;
+}
+
+.main-screen{
+  padding:0px var(--horizontal-space);
+}
+
+/* @media only screen{
+ .init{
+  background-image : url("https://cdn.pixabay.com/photo/2020/05/19/12/59/phone-5190643_960_720.jpg");
+  height: 100vh;
+  background-repeat : no-repeat;
+  background-size : cover;
+  opacity: 0.4;}
+} */
