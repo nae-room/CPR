@@ -10,7 +10,7 @@ class Config(object):
         'user': 'root',
         'password': 'bagx6g4869!',
         'charset': 'utf8mb4'
-        }
+    }
 
 # MySQL과의 연결을 생성하고 SQL을 실행하는 클래스를 지정한다.
 
@@ -72,18 +72,7 @@ if __name__ == "__main__":
         for i in data:
             db.execute('INSERT INTO family VALUES(%s,%s,%s,%s)', i)  # SQL INSERT 문
 
-        db.execute('SELECT * FROM family')  # SQL SELECT 문 #1 
-        members = db.fetchall()
-        for member in members:
-            print(member)
-
         # SQL SELECT 문 #2 
         db.execute('SELECT EMP_ID, EMP_NAME FROM family WHERE EMP_AGE > %s', [40])
         members = db.fetchall()
         print(members)
-
-        # SQL UPDATE 문
-        db.execute("UPDATE family SET EMP_NAME = %s WHERE EMP_ID = %s" ,['로빈', 'julian'])
-
-        # SQL DELETE 문
-        db.execute("DELETE FROM family WHERE EMP_ID = %s", ['jina'])
