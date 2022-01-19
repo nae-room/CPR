@@ -7,6 +7,17 @@ CPR(Connect Proxy relationship) : 코로나블루를 완화하기 위한 임의 
 ## 📢 **Demo**
 - CPR 웹사이트
 
+## 🔨 **Stack**
+**Frontend (Web)
+- Language : HTML, CSS
+
+**Backend
+
+
+## 🔧 **Front-End Architecture**
+
+## 🔧 **Back-End Architecture**
+
 ## 👩‍💻 **Developer**
 |Frontend & Algorithm|Frontend & NLP|DB & Algorithm|NLP & Algorithm|DB & Algorithm|
 |--|--|--|--|--|
