@@ -1,4 +1,4 @@
-<img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjBfNzQg/MDAxNjQyNjU4NjkyNTk3.aUqtz0ZOWkIIVCpx2FaxF6PEgr6dBVPWehgPlgTenWcg.mZXgWQkTnbMlRdd17neNwltUF_1PPsyhD3rVrnXV_Ygg.PNG.pmj1010235/horizontal_on_white_by_logaster.png?type=w800">
+<center><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjBfNzQg/MDAxNjQyNjU4NjkyNTk3.aUqtz0ZOWkIIVCpx2FaxF6PEgr6dBVPWehgPlgTenWcg.mZXgWQkTnbMlRdd17neNwltUF_1PPsyhD3rVrnXV_Ygg.PNG.pmj1010235/horizontal_on_white_by_logaster.png?type=w800"></center>
 
 # <center>**CPR**</center>
 ## <center>한줄요약</center>
