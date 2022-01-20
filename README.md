@@ -1,4 +1,6 @@
-# **<span style="color:red">CPR</span>**
+
+# <center>**CPR**</center>
+## <center>메인 설명</center>
 
 ## 🎙️ **Introduce**
 **CPR**은 'Connect Proxy relationship' 의 약자로 코로나블루를 완화하기 위한 임의 사용자 연결 추천 서비스입니다.
