@@ -28,7 +28,7 @@
     width: 0;
     position: absolute; 
     left: 0;
-    color: lightgoldenrodyellow;
+    color: #475840;
     overflow: hidden;
     pointer-events: none;
   }
@@ -39,7 +39,7 @@
 <body id="chat-screen">
 
 	<!-- status-bar -->
-	<div class="status-bar">
+	<!-- <div class="status-bar">
 		<div class="status-bar__column">
 			<span>No Searvice</span>
         <i class="fas fa-wifi"></i>
@@ -54,7 +54,7 @@
         <i class="fas fa-battery-three-quarters"></i>
         <i class="fas fa-bolt"></i>
       </div>
-    </div>
+    </div> -->
     
 <!-- Main -->
     <main class="main-screen main-chat">
@@ -66,14 +66,14 @@
         <h4 class="user-component__title">비룡이</h4> <br>
         <div class="user-component__column">
       </center>
-<span class="star">
+  <span class="star">
   ★★★★★
   <span>★★★★★</span>
   <input type="range" oninput="drawStar(this)" value="1" step="1" min="0" max="10">
 </span> <br><br>
 <div class="user-component__column">
-  <a href="myself.html"><i class="fas fa-check fa-2x"></i> &nbsp; &nbsp;&nbsp;
-  <i class="fas fa-user-plus fa-2x"></i> 
+  <a href="myself.html"><button class="bttn-minimal bttn-sm bttn-success">제출하기</button></a>
+  <a href="evaluate.html"><button class="bttn-minimal bttn-sm bttn-success">친구추가</button>
   
 </div>
 
