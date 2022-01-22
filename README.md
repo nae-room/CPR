@@ -28,7 +28,7 @@
 자세히
 
 ## 🔨 **Front-End**
-<img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/>
+<center><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/></center>
 
 ## 🔨 **DataAnalysis**
 자세히
