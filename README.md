@@ -18,7 +18,7 @@
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
 * ...
 
-## **Index**
+## 🗂️ **Index**
 * [설계 및 구상](#설계 및 구상)
 * ...(아이템소개)
 * [Back-End](#Back-End)
@@ -48,7 +48,7 @@
 * App : PYTHON & HTML,CSS,JAVASCRIPT
 * DB : MYSQL
 
-## **Environment**
+## 🌐 **Environment**
 * Operating System : window 11 64bit & Mac OS Monterey
 * CPU : i5
 * RAM : 8GB
