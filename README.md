@@ -1,22 +1,47 @@
-# <center>**CPR**</center>
-## <center>한줄요약</center>
+# <center>**Kim&Jang**</center>
+
+# <center>**⚡CPR 사용자 추천 연결 서비스**</center>
 
 ## 🎙️ **Introduce**
 코로나로 인해 제한된 활동과 비대면 수업등으로 성인이 된 이후 새로운 관계형성에 어려움을 느끼시고 있는 대학생들을 위해 제작되었습니다.
-
 저희 **CPR**(Connect Proxy relationship)은 'Connect(연결하다.) Proxy(대신) relationship(관계)'의 의미를 담아 저희가 대신해서 새로운 관계형성에 도움을 드리고자 하는 추천 사용자 연결 서비스입니다.
+(사진추가)(사진추가)(사진추가)(사진추가)(사진추가) --> 앱 구현 사진
 
-## **Features**
-* 추천 알고리즘
-* 데이터 분석
-* Front-End
+## **Key Features**
+* 사용자에게 알맞는 대화상대 매칭
+* 클린한 통화문화를 위한 NLP를 활용한 통화품질서비스 제공
+* ...
+
+## **Index**
+* 설계 및 구상
+* ...(아이템소개)
+* Back-End(성원)(#Back-End)
+* Front-End(민섭, 다연)(#Front-End)
+* DataAnalysis(찬영, 예린)(#DataAnalysis)
 
 
-## 🔨 **Front-End Architecture**
+## **Languages&IDE**
+* App : PYTHON & HTML,CSS,JAVASCRIPT
+* DB : MYSQL
+
+## **Environment**
+* Operating System : window 11 64bit & Mac OS Monterey
+* CPU : i5
+* RAM : 8GB
+
+## 🔨 **Back-End**
 자세히
 
-## 🔨 **Back-End Architecture**
+## 🔨 **Front-End**
 자세히
+
+## 🔨 **데이터 분석**
+자세히
+
+
+
+
+
 
 ## 👩‍💻 **Developer**
 |Frontend & Algorithm|Frontend & NLP|DB & Algorithm|NLP & Algorithm|DB & Algorithm|
