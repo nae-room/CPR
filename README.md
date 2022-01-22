@@ -10,11 +10,8 @@
 ## ⭐ **Key Features**
 * 사용자에게 알맞는 대화상대 매칭
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
-* ...
 
 ## 🗂️ **Index**
-* [설계 및 구상](#설계 및 구상)
-* ...(아이템소개)
 * [Back-End](#Back-End)
 * [Front-End](https://github.com/nae-room/CPR/tree/main/Front-End)
 * [DataAnalysis](https://github.com/nae-room/CPR/tree/main/BackEnd)
@@ -31,6 +28,7 @@
 
 ## 🔨 **Front-End**
 <p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/></p>
+<p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjM0/MDAxNjQyODcwNjg3MTgz.GoFJOiabGadgD1l95JrtVGeMemyEJDybfi4-dWayRSQg.LqYY8-zRFFRuRXScu7w2MH6zjCW8F4rgfReipEbMsesg.PNG.pmj1010235/KakaoTalk_20220123_015703258.png?type=w800"/></p>
 
 Front-End는 총 15개의 페이지로 구성되어 있으며 각 페이지에 대한 간단한 설명은 다음과 같습니다.
 
