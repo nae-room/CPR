@@ -5,6 +5,13 @@
 ## 🎙️ **Introduce**
 코로나로 인해 제한된 활동과 비대면 수업등으로 성인이 된 이후 새로운 관계형성에 어려움을 느끼시고 있는 대학생들을 위해 제작되었습니다.
 저희 **CPR**(Connect Proxy relationship)은 'Connect(연결하다.) Proxy(대신) relationship(관계)'의 의미를 담아 저희가 대신해서 새로운 관계형성에 도움을 드리고자 하는 추천 사용자 연결 서비스입니다.
+
+
+
+<img scr="https://user-images.githubusercontent.com/88781717/150626462-0cfa4e1a-361f-4abf-b134-76dedb69971a.jpeg" width="150" height="250">
+<img scr="https://user-images.githubusercontent.com/88781717/150626462-0cfa4e1a-361f-4abf-b134-76dedb69971a.jpeg" width="150" height="250">
+
+
 (사진추가)(사진추가)(사진추가)(사진추가)(사진추가) --> 앱 구현 사진
 
 ## **Key Features**
@@ -13,11 +20,29 @@
 * ...
 
 ## **Index**
-* 설계 및 구상
+* [설계 및 구상](#설계 및 구상)
 * ...(아이템소개)
-* Back-End(성원)(#Back-End)
-* Front-End(민섭, 다연)(#Front-End)
-* DataAnalysis(찬영, 예린)(#DataAnalysis)
+* [Back-End](#Back-End)
+* [Front-End](#Front-End)
+* [DataAnalysis](#DataAnalysis)
+
+
+## **설계 및 구상**
+.
+.
+.
+
+
+## 🔨 **Back-End**
+자세히
+
+## 🔨 **Front-End**
+자세히
+
+## 🔨 **DataAnalysis**
+자세히
+
+
 
 
 ## **Languages&IDE**
@@ -28,18 +53,6 @@
 * Operating System : window 11 64bit & Mac OS Monterey
 * CPU : i5
 * RAM : 8GB
-
-## 🔨 **Back-End**
-자세히
-
-## 🔨 **Front-End**
-자세히
-
-## 🔨 **데이터 분석**
-자세히
-
-
-
 
 
 
