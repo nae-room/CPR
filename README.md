@@ -5,16 +5,16 @@
 ## 🎙️ **Introduce**
 코로나로 인해 제한된 활동과 비대면 수업등으로 성인이 된 이후 새로운 관계형성에 어려움을 느끼고 있는 대학생들을 위해 제작되었습니다.
 
-저희 **CPR**(Connect Proxy relationship)은 'Connect(연결하다.) Proxy(대신) relationship(관계)'의 의미를 담아 저희가 대신해서 새로운 관계형성에 도움을 드리고자 하는 추천 사용자 연결 서비스입니다.
+기존 심폐소생술의 의미와 비슷하게 저희 팀만이 해석한 **CPR**(Connect Proxy relationship)은 'Connect(연결하다.) Proxy(대신) relationship(관계)'의 뜻을 담아 '대신해서 새로운 관계형성'에 도움을 드리고자 하는 추천 사용자 연결 서비스입니다.
 
 ## ⭐ **Key Features**
 * 사용자에게 알맞는 대화상대 매칭
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
 
 ## 🗂️ **Index**
-* [Back-End](#Back-End)
 * [Front-End](https://github.com/nae-room/CPR/tree/main/Front-End)
-* [DataAnalysis](https://github.com/nae-room/CPR/tree/main/BackEnd)
+* [Back-End](https://github.com/nae-room/CPR/tree/main/BackEnd)
+* [DataAnalysis](#DataAnalysis)
 
 
 ## ⚙️ **설계 및 구상**
@@ -51,6 +51,7 @@ myself.html - 자기 평가 화면으로 통화 중 자신의 언행에 대한 �
 ## ✏ **Languages & IDE**
 * App : PYTHON & HTML,CSS,JAVASCRIPT
 * DB : MYSQL
+* IDE : VSCODE, Repe.IT
 
 ## 🌐 **Environment**
 * Operating System : window 11 64bit & Mac OS Monterey
