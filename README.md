@@ -13,7 +13,7 @@
 
 (사진추가)(사진추가)(사진추가)(사진추가)(사진추가) --> 앱 구현 사진
 
-## **Key Features**
+## ⭐ **Key Features**
 * 사용자에게 알맞는 대화상대 매칭
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
 * ...
@@ -41,9 +41,6 @@
 ## 🔨 **DataAnalysis**
 자세히
 
-
-
-
 ## **Languages&IDE**
 * App : PYTHON & HTML,CSS,JAVASCRIPT
 * DB : MYSQL
@@ -52,8 +49,6 @@
 * Operating System : window 11 64bit & Mac OS Monterey
 * CPU : i5
 * RAM : 8GB
-
-
 
 ## 👩‍💻 **Developer of Kim & Jang**
 |Frontend & Algorithm|Frontend & NLP|DB & Algorithm|NLP & Algorithm|DB & Algorithm|
