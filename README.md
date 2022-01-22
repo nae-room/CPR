@@ -22,8 +22,8 @@
 * [설계 및 구상](#설계 및 구상)
 * ...(아이템소개)
 * [Back-End](#Back-End)
-* [Front-End](#🔨Front-End)
-* [DataAnalysis](#🔨DataAnalysis)
+* [Front-End](https://github.com/nae-room/CPR/tree/main/Front-End)
+* [DataAnalysis](https://github.com/nae-room/CPR/tree/main/BackEnd)
 
 
 ## ⚙️ **설계 및 구상**
