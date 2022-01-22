@@ -1,5 +1,7 @@
 # <center>**📡 CPR 사용자 추천 연결 서비스**</center>
 
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgz/MDAxNjQyODY3MDI5MzY3.2-U9qIKcGv_nXkie7sLeZ8wwS2k_cR2hIUkvGJx4MQ4g.tP4mGvsroOLTC4HhY1Rfzn91MGKJWyesK-C1hI8Tc70g.PNG.pmj1010235/cpr.png?type=w800">
+
 ## 🎙️ **Introduce**
 코로나로 인해 제한된 활동과 비대면 수업등으로 성인이 된 이후 새로운 관계형성에 어려움을 느끼고 있는 대학생들을 위해 제작되었습니다.
 
