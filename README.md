@@ -23,8 +23,8 @@
 * [설계 및 구상](#설계 및 구상)
 * ...(아이템소개)
 * [Back-End](#Back-End)
-* [Front-End](#Front-End)
-* [DataAnalysis](#DataAnalysis)
+* [Front-End](#🔨Front-End)
+* [DataAnalysis](#🔨DataAnalysis)
 
 
 ## **설계 및 구상**
