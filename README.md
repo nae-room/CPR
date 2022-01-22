@@ -30,7 +30,7 @@
 자세히
 
 ## 🔨 **Front-End**
-<center><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/></center>
+<p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/></p>
 
 Front-End는 총 00개의 페이지로 구성되어 있으며 각 페이지에 대한 설명은 다음과 같습니다.
 
