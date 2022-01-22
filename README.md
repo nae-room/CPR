@@ -30,6 +30,12 @@
 ## 🔨 **Front-End**
 <center><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/></center>
 
+Front-End는 총 00개의 페이지로 구성되어 있으며 각 페이지에 대한 설명은 다음과 같습니다.
+
+index.html - 로그인 화면
+profile.html - 개인 프로필 화면으로 사용자의 닉네임, 전공, 관심사 등 여러 항목이 표시됩니다.
+chats.html - 채팅방 목록 화면으로 원하는 채팅방을 선택하면 랜덤 사용자와 매칭이 성사됩니다.
+
 ## 🔨 **DataAnalysis**
 자세히
 
