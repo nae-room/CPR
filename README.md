@@ -5,14 +5,6 @@
 
 저희 **CPR**(Connect Proxy relationship)은 'Connect(연결하다.) Proxy(대신) relationship(관계)'의 의미를 담아 저희가 대신해서 새로운 관계형성에 도움을 드리고자 하는 추천 사용자 연결 서비스입니다.
 
-
-
-<img scr="https://user-images.githubusercontent.com/88781717/150626462-0cfa4e1a-361f-4abf-b134-76dedb69971a.jpeg" width="150" height="250">
-<img scr="https://user-images.githubusercontent.com/88781717/150626462-0cfa4e1a-361f-4abf-b134-76dedb69971a.jpeg" width="150" height="250">
-
-
-(사진추가)(사진추가)(사진추가)(사진추가)(사진추가) --> 앱 구현 사진
-
 ## ⭐ **Key Features**
 * 사용자에게 알맞는 대화상대 매칭
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
