@@ -33,7 +33,7 @@
 ## 🔨 **DataAnalysis**
 자세히
 
-## **Languages&IDE**
+## ✏ **Languages & IDE**
 * App : PYTHON & HTML,CSS,JAVASCRIPT
 * DB : MYSQL
 
