@@ -12,9 +12,9 @@
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
 
 ## 🗂️ **Index**
-* [Front-End](https://github.com/nae-room/CPR/tree/main/Front-End)
-* [Back-End](https://github.com/nae-room/CPR/tree/main/BackEnd)
-* [DataAnalysis](#DataAnalysis)
+* [Front-End](https://github.com/nae-room/CPR#-front-end)
+* [Back-End](https://github.com/nae-room/CPR#-back-end)
+* [DataAnalysis](#https://github.com/nae-room/CPR#-DataAnalysis)
 
 
 ## ⚙️ **설계 및 구상**
