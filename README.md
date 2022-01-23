@@ -16,9 +16,6 @@
 * [Back-End](https://github.com/nae-room/CPR#-back-end)
 
 ## ⚙️ **설계 및 구상**
-.
-.
-.
 
 ## 🔨 **DB Structure**
 <p align="center"><img width="593" alt="image" src="https://user-images.githubusercontent.com/54873618/150660075-625a5cfd-b4cd-4e53-885c-b78ad909d649.png"></p>
