@@ -15,7 +15,7 @@
 ## 🗂️ **Index**
 * [Front-End](https://github.com/nae-room/CPR#-front-end)
 * [Back-End](https://github.com/nae-room/CPR#-back-end)
-* [DataAnalysis](#https://github.com/nae-room/CPR#-DataAnalysis)
+* [DataAnalysis](#https://github.com/nae-room/CPR#-dataanalysis)
 
 
 ## ⚙️ **설계 및 구상**
