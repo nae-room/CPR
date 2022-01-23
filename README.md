@@ -12,9 +12,9 @@
 * 클린한 통화문화를 위한 NLP를 활용한 통화품질 제공
 
 ## 🗂️ **Index**
-* [Front-End](https://github.com/nae-room/CPR#-front-end)
-* [Back-End](https://github.com/nae-room/CPR#-Back-End)
-* [DataAnalysis](https://github.com/nae-room/CPR#-DataAnalysis)
+* [Front-End](https://github.com/nae-room/CPR/tree/main/Front-End)
+* [Back-End](https://github.com/nae-room/CPR/tree/main/BackEnd)
+* [DataAnalysis](#DataAnalysis)
 
 
 ## ⚙️ **설계 및 구상**
@@ -22,9 +22,14 @@
 .
 .
 
+## **DB**
+<p align="center"><img width="593" alt="image" src="https://user-images.githubusercontent.com/54873618/150660075-625a5cfd-b4cd-4e53-885c-b78ad909d649.png"></p>
+
 
 ## 🔨 **Back-End**
-자세히
+* 구현 👉 pymysql 라이브러리를 이용하여 파이썬과 MySQL을 연결, 모든 데이터를 DB에서 가져와 연산한 후 결과를 곧바로 DB에 저장하는 식.
+* 매칭 알고리즘 👉 각 사용자들끼리 매칭 점수를 관심사, MBTI 등의 독립 변수를 이용하여 Rule-based 방식으로 도출. 그 후, 모든 매칭 점수를 Priority_queue에 저장하여 greedy하게 매칭할 두 사용자를 찾는다.
+
 
 ## 🔨 **Front-End**
 <p align="center"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjNfMjgw/MDAxNjQyODY0NjU2OTY4.Q2z-GduCayIJRZvY9mBckEHfm1JN-jmlpA5O8yQEJz8g.ZYe6qUO4B6N58dLnNgmUr7bv01TeSK9zevDVQVO6pIsg.PNG.pmj1010235/KakaoTalk_20220123_001703718.png?type=w800"/></p>
