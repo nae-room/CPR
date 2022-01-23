@@ -50,7 +50,7 @@ evaluate.html - 연결 종료 화면으로 상대에 대한 평가 및 친구신
 myself.html - 자기 평가 화면으로 통화 중 자신의 언행에 대한 상세 점수를 확인할 수 있습니다. <br>
 
 ## 📝 **Languages & IDE**
-* App : PYTHON & HTML,CSS,JAVASCRIPT
+* App : PYTHON & HTML, CSS, JAVASCRIPT
 * DB : MYSQL
 * IDE : VSCODE, Repe.IT
 
